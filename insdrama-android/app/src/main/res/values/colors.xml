@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="primary_light">#FF8C5A</color>
+    <color name="accent">#00D9FF</color>
+    
+    <!-- Background Colors -->
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#FF1A1A1A</color>
+    <color name="gray">#FF333333</color>
+    <color name="light_gray">#FF666666</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Chip Colors -->
+    <color name="chip_background">#40FFFFFF</color>
+    <color name="chip_text">#FFFFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#66FFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#00000000</color>
+    <color name="gradient_end">#CC000000</color>
+    
+    <!-- Button Colors -->
+    <color name="button_background">#40FFFFFF</color>
+    <color name="button_pressed">#60FFFFFF</color>
+</resources>
